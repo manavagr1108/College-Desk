@@ -17,3 +17,7 @@
 ### Tech Stack :
 
 #### -Nodejs
+
+#### -Ejs
+
+#### -MongoDb
